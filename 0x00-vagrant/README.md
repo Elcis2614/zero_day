@@ -1,0 +1,1 @@
+# figuring man uname 
